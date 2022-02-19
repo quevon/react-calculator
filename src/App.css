@@ -10,6 +10,7 @@ body{
   background-color: #fff;
   width: 400px;
   border-radius: 16px;
+  margin: 4% auto;
 }
 .row{
   display: flex;

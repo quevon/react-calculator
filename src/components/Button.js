@@ -7,7 +7,6 @@ const Button = ({symbol, color, handleClick}) => {
         className="button-wrapper" style={{background: color}}> 
         {symbol}
     </div>)
-   
 }
 
 export default Button;
